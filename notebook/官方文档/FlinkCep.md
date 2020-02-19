@@ -8,7 +8,15 @@
 
 ## 文档正文
 
+    文档主要分为模式API、
+
 ### [The Pattern API](https://ci.apache.org/projects/flink/flink-docs-release-1.10/zh/dev/libs/cep.html#the-pattern-api)
+
+    主要介绍了where、or的模式api以及begin、next、end等组合api。
+
+### [Detecting Patterns](https://ci.apache.org/projects/flink/flink-docs-release-1.10/zh/dev/libs/cep.html#detecting-patterns)
+
+    在模式匹配成功后，针对匹配到的数据进行计算，获得报警结果
 
 ## 感想
 
